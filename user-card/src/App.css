@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  margin: auto;
+  background-color: white;
+  color: #0D1821;
+}
+
+.user-container{
+  background-color: #0D1821;
+  padding: 50px;
+  color: whitesmoke;
+}
+
+.followers-container{
+  display: flex;
+  margin: auto;
+  width: 100%;
+  max-width: 1350px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.follower-card{
+  margin: 10px;
+  background-color: #0D1821;
+  border: 2px solid  #0D1821;
+  border-radius: 10px;
+  color: whitesmoke;
+}
+
+
+
+img{
+  max-width: 200px;
+  border-radius: 10px 10px 0 0;
+  
+}
+
