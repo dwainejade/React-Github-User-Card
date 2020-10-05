@@ -2,16 +2,16 @@
   text-align: center;
   margin: auto;
   background-color: white;
-  color: #0D1821;
+  color: #0d1821;
 }
 
-.user-container{
-  background-color: #0D1821;
+.user-container {
+  background-color: #0d1821;
   padding: 50px;
   color: whitesmoke;
 }
 
-.followers-container{
+.followers-container {
   display: flex;
   margin: auto;
   width: 100%;
@@ -20,19 +20,15 @@
   justify-content: center;
 }
 
-.follower-card{
+.follower-card {
   margin: 10px;
-  background-color: #0D1821;
-  border: 2px solid  #0D1821;
+  background-color: #0d1821;
+  border: 2px solid #0d1821;
   border-radius: 10px;
   color: whitesmoke;
 }
 
-
-
-img{
+img {
   max-width: 200px;
   border-radius: 10px 10px 0 0;
-  
 }
-
